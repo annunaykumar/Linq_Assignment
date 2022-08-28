@@ -35,10 +35,10 @@ namespace Linq_Assignment
 
             // Q1.M();
             // Q2.M();
-            // Q3.M();
+             Q3.M();
             // Q4.M();
             //Q5.M();
-            Q9.CountEvenNumber();
+           // Q9.CountEvenNumber();
             Console.ReadLine();
         }
     }
